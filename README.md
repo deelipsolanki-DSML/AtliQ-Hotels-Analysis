@@ -5,7 +5,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </p>
 
@@ -26,7 +25,6 @@ The primary objective of this analysis is to understand why AtliQ Hotels is expe
 - Identifying booking and revenue trends
 - Analyzing cancellation behavior
 - Comparing city-wise performance
-- Evaluating booking platforms
 - Detecting hotels with unusually high cancellation rates
 - Providing recommendations for improving business performance
 
@@ -83,4 +81,4 @@ To better understand the underlying causes of declining bookings, additional dat
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star on GitHub!
+### ⭐ If you found this project interesting, consider giving it a star!
