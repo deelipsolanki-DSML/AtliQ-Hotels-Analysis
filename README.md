@@ -42,8 +42,6 @@ The primary objective of this analysis is to understand why AtliQ Hotels is expe
 
 # 💡 Recommendations
 
-### Short-Term
-
 - Investigate hotels with high cancellation rates.
 - Monitor weekly cancellation trends.
 - Improve food, hospitality, and hotel management where necessary.
@@ -65,7 +63,7 @@ The primary objective of this analysis is to understand why AtliQ Hotels is expe
 
 # 📈 Conclusion
 
-The analysis shows that the decline in revenue is primarily driven by a reduction in bookings rather than an increase in cancellations. While the overall cancellation rate has improved over time, a few specific hotels continue to experience unusually high cancellation percentages and require further investigation.
+The analysis shows that the decline in revenue is primarily driven by a reduction in bookings. While the overall cancellation rate has improved over time, a few specific hotels continue to experience unusually high cancellation percentages and require further investigation.
 
 To better understand the underlying causes of declining bookings, additional data such as customer reviews, service quality metrics, and guest feedback would be valuable. These insights can help AtliQ Hotels identify operational issues, improve customer satisfaction, reduce cancellations, and ultimately regain market share.
 
