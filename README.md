@@ -30,22 +30,12 @@ The primary objective of this analysis is to understand why AtliQ Hotels is expe
 
 ---
 
-### Overall Trend
-
-✅ Cancellation percentage gradually decreased over time.
-
-This is a positive sign because cancelled bookings contribute only **40%** of the booking amount as realized revenue.
-
-Although cancellations improved overall, bookings continued to decline, indicating that customer acquisition—not cancellations—is the larger business challenge.
-
----
-
 # 📌 Major Findings
 
 - Revenue is strongly correlated with booking volume.
 - Overall booking volume declined throughout the analysis period.
 - Overall cancellation percentage improved.
-- Certain hotels showed unusually high cancellation rates.
+- Certain hotels showed unusually high cancellation rates in later weeks.
 - Additional customer feedback data is required to identify the root cause behind declining bookings.
 
 ---
